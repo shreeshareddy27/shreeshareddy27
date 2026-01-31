@@ -20,10 +20,10 @@ I enjoy working with real-world data and exploring patterns that tell a story. I
 ---
 
 ## Featured Projects
-🔹 **AI Homework Grader** – Local-first AI grading system using Streamlit, Ollama, and OCR (PDF, images, text)  
-🔹 **Customer Churn Prediction** – ML classification models with SHAP for explainability  
-🔹 **RFM Customer Segmentation** – Retail customer segmentation using RFM analysis  
-🔹 **AI Career Predictor** – LSTM-based app to predict next job role  
+- **AI Homework Grader** – Local-first AI grading system using Streamlit, Ollama, and OCR (PDF, images, text)  
+- **Customer Churn Prediction** – ML classification models with SHAP for explainability  
+- **RFM Customer Segmentation** – Retail customer segmentation using RFM analysis  
+- **AI Career Predictor** – LSTM-based app to predict next job role  
 
 ---
 
