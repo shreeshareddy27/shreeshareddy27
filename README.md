@@ -15,13 +15,13 @@ I enjoy working with real-world data and exploring patterns that tell a story. I
 - Data analysis & visualization using Python, SQL, and Power BI  
 - Predictive modeling & machine learning  
 - AI-powered applications (Streamlit, LLMs, OCR)  
-- End-to-end projects: data collection → cleaning → modeling → insights → deployment  
+- End-to-end projects: data collection -> cleaning -> modeling -> insights -> deployment  
 
 ---
 
 ## Featured Projects
 - **AI Homework Grader** – Local-first AI grading system using Streamlit, Ollama, and OCR (PDF, images, text)  
-- **Customer Churn Prediction** – ML classification models with SHAP for explainability  
+- **Customer Churn Prediction** - ML classification models with SHAP for explainability  
 - **RFM Customer Segmentation** – Retail customer segmentation using RFM analysis  
 - **AI Career Predictor** – LSTM-based app to predict next job role  
 
