@@ -1,7 +1,7 @@
 # Hi, I'm Shreesha Reddy 👋
 
 🎓 MS in Data Science  
-📊 Data Analyst | Entry-Level Data Scientist  
+📊 Data Analyst | Data Scientist  
 📍 United States | Actively seeking full-time opportunities  
 
 ---
